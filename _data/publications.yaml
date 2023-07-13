@@ -1,0 +1,32 @@
+papers:
+
+
+
+  - title: "Generalization Aware Compression of Molecular Trajectories"
+    authors: "<b>Md Hasan Anowar</b>, Abdullah Shamail, Xiaoyu Wang, Goce Trajcevski, Sohail Murad, Cynthia J Jameson, Ashfaq Khokhar"
+    venue: "ADBIS'22"
+    # paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
+    code: "https://github.com/abdullahshamail/GATCo"
+    selected: y
+
+
+
+  # - title: "The Structure of Toxic Conversations on Twitter"
+  #   authors: "<b>Martin Saveski</b>, Brandon Roy, Deb Roy"
+  #   venue: "WWW'21: The Web Conference 2021"
+  #   paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
+  #   code: "https://github.com/msaveski/toxic_conversation_structure"
+  #   data: "https://doi.org/10.7910/DVN/TRWPVB"
+  #   video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
+  #   selected: y
+
+
+  # - title: "Algorithmic and Human Prediction of Success in Human Collaboration From Visual Features"
+  #   authors: "<b>Martin Saveski<sup>‡</sup></b>, Edmond Awad<sup>‡</sup>, Iyad Rahwan, Manuel Cebrian"
+  #   venue: "Nature Scientific Reports. 2021"
+  #   paper_pdf: "/assets/publications/2021_esc_the_room/paper.pdf"
+  #   code: "https://doi.org/10.7910/DVN/HDT2RN"
+  #   data: "https://doi.org/10.7910/DVN/HDT2RN"
+  #   selected: n
+
+  
