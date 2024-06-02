@@ -1,28 +1,30 @@
 experiences:
 
+- place: "Viasat"
+  time: "Summer 2024"
+  title: "Machine Learning Engineer, Intern (incoming)"
+  # subtitle: "Core Data Science"
+  category: "work"
+
 - place: "Iowa State University"
   time: "Jan '21 - present"
-  title: "Ph.D. Student"
+  title: "PhD"
   subtitle: "Computer Engineering"
   category: "school"
 
 - place: "The University of Texas Rio Grande Valley"
   time: "2019 - 2020"
-  title: "M.S. Student"
+  title: "MS"
   subtitle: "Electrical Engineering"
   category: "school"
 
 - place: "Bangladesh University of Engineering and Technology (BUET)"
   time: "2010 - 2015"
-  title: "B.Sc. Student"
+  title: "BSc"
   subtitle: "Electrical and Electronic Engineering"
   category: "school"
 
-- place: "Viasat"
-  time: "Summer 2024"
-  title: "Machine Learning Engineer, Intern"
-  subtitle: "Core Data Science"
-  category: "work"
+
 
 # - place: "Amazon"
 #   time: "Summer 2014"
