@@ -18,17 +18,11 @@ experiences:
   subtitle: "Electrical and Electronic Engineering"
   category: "school"
 
-# - place: "Facebook"
-#   time: "Summer 2019"
-#   title: "Research Scientist, Intern"
-#   subtitle: "Core Data Science"
-#   category: "work"
-
-# - place: "LinkedIn"
-#   time: "Summer 2016"
-#   title: "Research Scientist, Intern"
-#   subtitle: "Experimentation Group"
-#   category: "work"
+- place: "Viasat"
+  time: "Summer 2024"
+  title: "Machine Learning Engineer, Intern"
+  subtitle: "Core Data Science"
+  category: "work"
 
 # - place: "Amazon"
 #   time: "Summer 2014"
@@ -36,22 +30,5 @@ experiences:
 #   subtitle: "Scalable Machine Learning Group"
 #   category: "work"
 
-# - place: "Yahoo! Labs"
-#   time: "Feb-Aug 2013"
-#   title: "Research Scientist, Intern"
-#   subtitle: "Social Media Engagement Group"
-#   category: "work"
-
-# - place: "EM-DMKM"
-#   time: "Sep 2011 – Aug 2013"
-#   title: "M.Sc. Student"
-#   subtitle: "Masters in Data Mining and Knowledge Management <br/> Year 1: University Pierre et Marie Curie <br/> Year 2: Universitat Politecnica de Catalunya <br/>"
-#   category: "school"
-
-# - place: "Jozef Stefan Institute"
-#   time: "Jan-Aug 2011"
-#   title: "Research Assistant"
-#   subtitle: "Department of Knowledge Technologies"
-#   category: "work"
 
 
