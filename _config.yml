@@ -1,8 +1,0 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-baseurl: /~hasananowar
-
-collections:
-  projects:
-    output: true
