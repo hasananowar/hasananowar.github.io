@@ -1,10 +1,10 @@
 experiences:
 
 - place: "Viasat"
-  time: "Summer 2024"
   title: "Machine Learning Engineer Intern"
   # subtitle: "Core Data Science"
   category: "work"
+  time: "Summer 2024"
 
 - place: "Iowa State University"
   time: "Jan '21 - present"
